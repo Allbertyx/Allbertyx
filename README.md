@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allbertyx
 - 👀 I’m interested in development of videogames
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Java and C
 - 💞️ I’m looking to collaborate on ¿?
 - 📫 How to reach me ¿?
 
