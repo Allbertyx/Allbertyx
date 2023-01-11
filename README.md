@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Allbertyx
-- 👀 I’m interested in development of videogames
-- 🌱 I’m currently learning Java and C
+- 👋 Hi, I’m @Allbertyx // Alberto Mansilla
+- 👀 I’m interested in development of videogames and backend in Java and Kotlin.
+- 🌱 I’m currently learning Java, Kotlin and Python
 - 💞️ I’m looking to collaborate on ¿?
 - 📫 How to reach me ¿?
 
