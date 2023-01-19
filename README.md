@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Allbertyx // Alberto Mansilla
-- 👀 I’m interested in development of videogames and backend in Java and Kotlin.
+- 👀 I’m interested in development of videogames, Java and Kotlin.
 - 🌱 I’m currently learning Java, Kotlin and Python
 - 💞️ I’m looking to collaborate on ¿?
 - 📫 How to reach me ¿?
