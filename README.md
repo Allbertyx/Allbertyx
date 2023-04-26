@@ -2,7 +2,6 @@
 - 👀 I’m interested in development of videogames, Java and Kotlin.
 - 🌱 I’m currently learning Java, Kotlin and Python
 - 💞️ I’m looking to collaborate on ¿?
-- 📫 How to reach me ¿?
 
 <!---
 Allbertyx/Allbertyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
